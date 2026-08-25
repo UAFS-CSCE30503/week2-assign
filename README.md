@@ -1,4 +1,4 @@
-# Assignment One 
+## CSCE 30503: Week 2 - Assignment 
 
 This assignment will allow you to get familar with the distribution and submission of assignments using GitHub and GitHub Classroom.  We will also do our first C program and look at the implementations of *functions, arrays, and strings* in C.  
 
