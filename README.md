@@ -1,6 +1,6 @@
 ## CSCE 30503: Week 2 - Assignment 
 
-This assignment will allow you to get familar with the distribution and submission of assignments using GitHub and GitHub Classroom.  We will also do our first C program and look at the implementations of *functions, arrays, and strings* in C.  
+This assignment will be our first C program and look at the implementations of *functions, arrays, and strings* in C.  
 
 ## Problem
 Write a C program (using the **longest.c** starter file) that will read lines of input from standard input (STDIN), compare each of the lines read from standard input and display the longest input line to standard output (STDOUT). Many of the utility programs in Linux and Unix function the same where they read from *STDIN* (No input prompt) and write to *STDOUT*.  These types of programs are called **filters**.  Your program's output should look like the following example:
